@@ -1,1 +1,5 @@
+-----im from b1
 Hi im in 6.txt of branch b1
+------im from master
+hi im in master 6.txt
+
