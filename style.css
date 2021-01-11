@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Century Gothic;
+    background-color: rgb(121, 163, 241);
+}
+ul{
+    float:right;
+    list-style-type: none;
+    margin-top: 25px;
+}
+ul li{
+    display: inline-block;
+}
+ul li a{
+    text-decoration: none;
+    color:black;
+    padding: 5px 20px;
+    border: 1px solid rgb(8, 8, 8);
+}
+ul li a:hover{
+    background-color: black;
+    color: blanchedalmond;
+    transition: 0.5s ease;
+}
+.main{
+    max-width: 1200px;
+    margin: auto;
+}
+.logo img{
+    float:left;
+    width: 400px;
+    height: 250px;
+    margin-top: 500px;
+    margin-left: 300px;
+}
